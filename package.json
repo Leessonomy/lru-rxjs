@@ -1,0 +1,17 @@
+{
+  "name": "lru",
+  "version": "1.0.0",
+  "description": "lru cache\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dlru rxjs operator",
+  "main": "\u001b[C\u001b[C\u001b[C\u001b[(lru.ts)",
+  "scripts": {
+    "start": "npm run build && npx ts-node build/stream.js",
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.6.7",
+    "typescript": "^4.2.4"
+  }
+}
